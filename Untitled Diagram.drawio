@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T21:39:51.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="5zTMUN9rhQvxMDZkcfwO" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T21:45:22.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="JXLHon-_bkRyDIL7w2GV" version="21.3.2" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="1041" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,12 +52,6 @@
             <mxPoint x="293" y="189.99999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="151" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="252.9999999999999" y="225.99999999999991" as="sourcePoint" />
-            <mxPoint x="313" y="225.99999999999991" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="152" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="273.0000000000001" y="259.99999999999994" as="sourcePoint" />
@@ -85,7 +79,7 @@
         <mxCell id="176" value="Redundancy" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="153.00000000000006" y="216.99999999999997" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="198" value="Broken" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+        <mxCell id="198" value="Failure" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="292.5833333333333" y="180.9722222222222" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="200" value="Disturbances" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
@@ -163,22 +157,22 @@
         <mxCell id="264" value="Wheels" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="555.9966666666666" y="373" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="godoSaM92aSsc83_txL4-265" value="" style="edgeStyle=none;endArrow=none;" edge="1" parent="1">
+        <mxCell id="godoSaM92aSsc83_txL4-265" value="" style="edgeStyle=none;endArrow=none;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="508.4133333333332" y="382.49777777777757" as="sourcePoint" />
             <mxPoint x="528.4100000000001" y="350.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="godoSaM92aSsc83_txL4-266" value="" style="edgeStyle=none;endArrow=none;" edge="1" parent="1">
+        <mxCell id="godoSaM92aSsc83_txL4-266" value="" style="edgeStyle=none;endArrow=none;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="538.4133333333332" y="382.49777777777757" as="sourcePoint" />
             <mxPoint x="558.4100000000001" y="350.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="godoSaM92aSsc83_txL4-268" value="Pressure" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];rotation=-55.3;" vertex="1" parent="1">
+        <mxCell id="godoSaM92aSsc83_txL4-268" value="Pressure" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];rotation=-55.3;" parent="1" vertex="1">
           <mxGeometry x="498.83333333333303" y="349.86444444444413" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="godoSaM92aSsc83_txL4-269" value="Stiffness &amp; damping" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];rotation=-55.3;" vertex="1" parent="1">
+        <mxCell id="godoSaM92aSsc83_txL4-269" value="Stiffness &amp; damping" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];rotation=-55.3;" parent="1" vertex="1">
           <mxGeometry x="538.413333333333" y="341.52444444444416" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
       </root>
