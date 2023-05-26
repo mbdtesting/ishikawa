@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T21:45:22.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="JXLHon-_bkRyDIL7w2GV" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T08:21:11.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="S0H_1TstOBbQrkKuqsiE" version="21.3.4" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         <mxCell id="262" value="Transmission" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="558.9966666666666" y="292.5" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="264" value="Wheels" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+        <mxCell id="264" value="Tire" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="555.9966666666666" y="373" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="godoSaM92aSsc83_txL4-265" value="" style="edgeStyle=none;endArrow=none;" parent="1" edge="1">
